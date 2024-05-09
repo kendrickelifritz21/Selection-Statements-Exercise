@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "F3BcfxWSPVg7YSs58GFsOVelsigHbRsuxXVNsxV7w7URP0cd6tCACavDkBDNouPp+8EtMsIuu98OA3DsFZd5sg==",
+  "dgSpecHash": "98x9KSYjGhbNXscuZemcBVmi7phjCDwtIvUGyDi9atxLviZ07SQe9PSAUbBg2hXLO1+hD4JIgHXnwAWQpM8OwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\SelectionStatementExercise\\SelectionStatementExercise\\SelectionStatementExercise.csproj",
+  "projectFilePath": "C:\\Users\\kendrick_elifritz\\Documents\\TrueCoders\\Module2\\Selection-Statements-Exercise\\SelectionStatementExercise\\SelectionStatementExercise.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://dcsartifacts.dell.com/artifactory/api/nuget/csb-nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }
